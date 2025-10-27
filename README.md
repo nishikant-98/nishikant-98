@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @nishikant-98
-- 👀 I’m interested in Devops and cloud computing
-- 🌱 I’m currently learning Devops tools and technologies
-- 💞️ I’m looking to collaborate on Cloud and Devops community
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+DevOps Engineer with approximately 3 years of hands-on experience. 
+GitHub
 
-<!---
-nishikant-98/nishikant-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Highly skilled in cloud computing (AWS/Azure/GCP), CI/CD pipelines, automation, infrastructure-as-code (Terraform/Ansible), containerization (Docker/Kubernetes) and Linux/Unix systems.
+Actively learning and collaborating in the DevOps and cloud community. 
+GitHub
+
+Showcases public repositories including configuration files for GitHub profile, data-science Python (customer churn), web front-end (React/TypeScript), and DevOps exercises (merge-conflict, etc). 
+GitHub
